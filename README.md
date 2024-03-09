@@ -1,3 +1,3 @@
 # .github
 
-Repository files for the Schleyer-EDV Organisation
+Repository files for the Schleyer & Otto GbR Organisation
