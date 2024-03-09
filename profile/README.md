@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=www.schleyer-und-otto.de&style=for-the-badge&url=https%3A%2F%2Fwww.schleyer-und-otto.de)](https://www.schleyer-und-otto.de)
 [![German-Host](https://img.shields.io/website?label=www.lemonserv.com&style=for-the-badge&url=https%3A%2F%2Fwww.lemonserv.com)](https://www.lemonserv.com)
-[![Status](https://img.shields.io/website?label=status.schleyer-edv.de&style=for-the-badge&url=https%3A%2F%2Fstatus.schleyer-und-otto.de)](https://status.schleyer-und-otto.de)
+[![Status](https://img.shields.io/website?label=status.schleyer-und-otto.de&style=for-the-badge&url=https%3A%2F%2Fstatus.schleyer-und-otto.de)](https://status.schleyer-und-otto.de)
 
 <!-- Images -->
 [header]: https://raw.githubusercontent.com/Schleyer-Otto-GbR/.github/main/profile/Banner.png
